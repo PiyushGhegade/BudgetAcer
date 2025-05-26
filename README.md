@@ -68,7 +68,7 @@ BudgetAcer is a web-based **Expense Management System** built with the **MERN St
 
 ### Clone the Project
 ```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
+  https://github.com/PiyushGhegade/BudgetAcer.git
 ```
 
 ### Install Dependencies
